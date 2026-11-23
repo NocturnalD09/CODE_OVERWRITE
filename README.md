@@ -13,4 +13,4 @@ game/
   script.rpy                              (cerita Act 1-4)
   images/  audio/  fonts/                 (isi sendiri, lihat README di tiap folder)
 
-Folder game/characters/ dibuat otomatis oleh gim saat dijalankan. Jangan taruh file lain di sana.
+Folder game/characters/ dibuat otomatis oleh gim saat dijalankan. tolong jangan taruh file lain di sana.
